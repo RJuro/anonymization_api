@@ -41,6 +41,6 @@ def extract_entities(user_request: UserRequestIn):
 # add a simle get route to check if the server is running
 @app.get("/")
 def read_root():
-    return {"Business Data Science 🚀💪"}
+    return {"Business Data Science 2022 🚀💪"}
 
 
